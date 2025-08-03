@@ -1,6 +1,6 @@
 name: flutter_dec
 description: A Flutter project with command processing capabilities.
-version: 1.0.0+1
+version: 1.0.0+9
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
